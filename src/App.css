@@ -1,0 +1,25 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+}
+#myApp{
+  display: flex;
+  justify-content: flex-start;
+}
+.navRight{
+  margin-right: 80px;
+}
+a{
+  text-decoration: none;
+  color: whitesmoke;
+  font-weight: bold;
+}
+.cardProduct{
+  display: flex;
+  margin: 60px;
+  gap: 20px;
+}
+.cardAction{
+  display: flex;
+  justify-content: center;
+}
